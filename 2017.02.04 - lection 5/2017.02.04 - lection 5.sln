@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formula 1 cicle", "formula 1 cicle\formula 1 cicle.csproj", "{E1715FCF-DA2B-4920-A063-F05E43DC7BA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "брояч --", "брояч --\брояч --.csproj", "{63A84844-2019-4D6A-BF4C-CE167F7BE8E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for......char", "for......char\for......char.csproj", "{A2ECB3D0-1C1E-43F4-B891-AA60B31835C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1715FCF-DA2B-4920-A063-F05E43DC7BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1715FCF-DA2B-4920-A063-F05E43DC7BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1715FCF-DA2B-4920-A063-F05E43DC7BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1715FCF-DA2B-4920-A063-F05E43DC7BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A84844-2019-4D6A-BF4C-CE167F7BE8E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A84844-2019-4D6A-BF4C-CE167F7BE8E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A84844-2019-4D6A-BF4C-CE167F7BE8E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A84844-2019-4D6A-BF4C-CE167F7BE8E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2ECB3D0-1C1E-43F4-B891-AA60B31835C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2ECB3D0-1C1E-43F4-B891-AA60B31835C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2ECB3D0-1C1E-43F4-B891-AA60B31835C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2ECB3D0-1C1E-43F4-B891-AA60B31835C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

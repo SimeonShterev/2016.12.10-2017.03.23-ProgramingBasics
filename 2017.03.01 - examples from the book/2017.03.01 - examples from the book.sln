@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numbers 1....100", "numbers 1....100\numbers 1....100.csproj", "{EFEEBC1C-D449-4044-96C0-270074C6CBAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "biggest and smallest number", "biggest and smallest number\biggest and smallest number.csproj", "{4453689A-0C55-4A73-873F-7F21C0867FE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "n factoriel devided to  k factoriel", "n factoriel devided to  k factoriel\n factoriel devided to  k factoriel.csproj", "{9291CC33-398E-4C53-9725-EBCA036AFB38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFEEBC1C-D449-4044-96C0-270074C6CBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEEBC1C-D449-4044-96C0-270074C6CBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEEBC1C-D449-4044-96C0-270074C6CBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEEBC1C-D449-4044-96C0-270074C6CBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4453689A-0C55-4A73-873F-7F21C0867FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4453689A-0C55-4A73-873F-7F21C0867FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4453689A-0C55-4A73-873F-7F21C0867FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4453689A-0C55-4A73-873F-7F21C0867FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9291CC33-398E-4C53-9725-EBCA036AFB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9291CC33-398E-4C53-9725-EBCA036AFB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9291CC33-398E-4C53-9725-EBCA036AFB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9291CC33-398E-4C53-9725-EBCA036AFB38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

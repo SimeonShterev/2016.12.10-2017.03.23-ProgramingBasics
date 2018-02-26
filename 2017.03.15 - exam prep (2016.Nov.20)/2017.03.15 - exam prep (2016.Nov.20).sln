@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fishland", "Fishland\Fishland.csproj", "{6111BD94-CA9A-4386-B70B-58ED07F7102A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fox", "fox\fox.csproj", "{222F1B35-B3F4-42AF-A74B-B1BD2C814D22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "battle", "battle\battle.csproj", "{453C6762-D4BD-44F2-896B-A6FC0C0B5A6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6111BD94-CA9A-4386-B70B-58ED07F7102A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6111BD94-CA9A-4386-B70B-58ED07F7102A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6111BD94-CA9A-4386-B70B-58ED07F7102A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6111BD94-CA9A-4386-B70B-58ED07F7102A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{222F1B35-B3F4-42AF-A74B-B1BD2C814D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{222F1B35-B3F4-42AF-A74B-B1BD2C814D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{222F1B35-B3F4-42AF-A74B-B1BD2C814D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{222F1B35-B3F4-42AF-A74B-B1BD2C814D22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{453C6762-D4BD-44F2-896B-A6FC0C0B5A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453C6762-D4BD-44F2-896B-A6FC0C0B5A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{453C6762-D4BD-44F2-896B-A6FC0C0B5A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{453C6762-D4BD-44F2-896B-A6FC0C0B5A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
